@@ -1,0 +1,18 @@
+{
+    "name": "monte/survey-app",
+    "description": "test 1 for online test Mavota",
+    "autoload": {
+        "psr-4": {
+            "Monte\\SurveyApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mavota",
+            "email": "margumdevilson@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
